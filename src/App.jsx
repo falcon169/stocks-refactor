@@ -9,7 +9,7 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Edit your wish  <code>src/App.jsx</code> and save to reload.
         </p>
         <p>
           <a
@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learning React
           </a>
         </p>
       </header>
